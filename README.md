@@ -9,7 +9,7 @@ Pirate talk
 
 **tsak.sh**
 
-Tsaknorris random facts of wisdom.
+Chuck Norris random facts of wisdom. Api from http://www.icndb.com/ .
 
 **what.sh**
 
